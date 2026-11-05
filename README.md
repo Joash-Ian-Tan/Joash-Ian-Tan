@@ -33,7 +33,7 @@ I'm open to connecting with other developers, discussing projects, and exploring
 
 - **Email:** joashtania@gmail.com
 - **LinkedIn:** www.linkedin.com/in/joash-ian-tan
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **GitHub:** https://github.com/Joash-Ian-Tan
 
 ---
 
