@@ -1,4 +1,4 @@
-## Hi, I'm Joash Tan 👋
+## Joash Tan
 
 ## About Me
 
@@ -31,8 +31,8 @@ A brief description of the project and what you learned or implemented while dev
 
 I'm open to connecting with other developers, discussing projects, and exploring internship opportunities.
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin/)
+- **Email:** joashtania@gmail.com
+- **LinkedIn:** www.linkedin.com/in/joash-ian-tan
 - **GitHub:** [@your-username](https://github.com/your-username)
 
 ---
